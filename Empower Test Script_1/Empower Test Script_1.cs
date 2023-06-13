@@ -69,6 +69,7 @@ namespace Empower_Test_Script_1
 		public void Run(IEngine engine)
 		{
 			engine.GenerateInformation("Sean is the best");
+			engine.GenerateInformation("Sean's first change");
 		}
 	}
 }
